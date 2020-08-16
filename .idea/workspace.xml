@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fefc5e40-d78f-4080-9f6a-6a9c89ddb5db" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1fqoBYOVFVvGWQckOnvvba6CrYk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components/chart" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components/chart" />
+      <recent name="$PROJECT_DIR$/src/pages/asset_allocation" />
+      <recent name="$PROJECT_DIR$/src/pages/asset_transition" />
+      <recent name="$PROJECT_DIR$/src/pages/portfolio" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/data" />
+      <recent name="$PROJECT_DIR$/src/components/chart" />
+      <recent name="$PROJECT_DIR$/src/pages" />
+      <recent name="$PROJECT_DIR$/src/pages/portfolio" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fefc5e40-d78f-4080-9f6a-6a9c89ddb5db" name="Default Changelist" comment="" />
+      <created>1596954853837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596954853837</updated>
+      <workItem from="1596954855496" duration="3570000" />
+      <workItem from="1596960207188" duration="231000" />
+      <workItem from="1596980386271" duration="264000" />
+      <workItem from="1597033544908" duration="6725000" />
+      <workItem from="1597046917346" duration="2932000" />
+      <workItem from="1597056444929" duration="1298000" />
+      <workItem from="1597104928832" duration="4676000" />
+      <workItem from="1597119098725" duration="1228000" />
+      <workItem from="1597213154091" duration="6078000" />
+      <workItem from="1597230961001" duration="705000" />
+      <workItem from="1597279568851" duration="3990000" />
+      <workItem from="1597293788662" duration="4392000" />
+      <workItem from="1597304506535" duration="760000" />
+      <workItem from="1597384878847" duration="3746000" />
+      <workItem from="1597392793539" duration="731000" />
+      <workItem from="1597473994396" duration="8172000" />
+      <workItem from="1597489359743" duration="993000" />
+      <workItem from="1597508959169" duration="682000" />
+      <workItem from="1597556166182" duration="201000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1596958994491">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="421" y="217" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/-1920.-341.1920.1057@0.23.1440.877" timestamp="1596958994491" />
+    <state x="442" y="340" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1597034058029">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="442" y="340" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877/-1920.-341.1920.1057@0.23.1440.877" timestamp="1597034058029" />
+    <state x="106" y="145" width="1154" height="637" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1597475342576">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="106" y="145" width="1154" height="637" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877/-1920.-341.1920.1057@0.23.1440.877" timestamp="1597475342576" />
+    <state x="106" y="145" width="1154" height="637" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.877@0.23.1440.877" timestamp="1597057796878" />
+    <state x="384" y="96" width="598" height="735" key="find.popup" timestamp="1597034037434">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="384" y="96" width="598" height="735" key="find.popup/0.23.1440.877/-1920.-341.1920.1057@0.23.1440.877" timestamp="1597034037434" />
+  </component>
+</project>
